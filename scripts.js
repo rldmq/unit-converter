@@ -42,3 +42,5 @@ btn.addEventListener("click",function(){
 
 // Display units on open
 convertRender(userInput)
+
+// create dark mode switch
